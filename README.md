@@ -36,3 +36,6 @@ class Workout {
 Sherry
 
 
+## Code Review
+- **Reviewed by:** Emaan Taquie
+- **Status:** Checked code. Inheritance (`extends`), Scanner input, and calorie calculations are all correct and working!
